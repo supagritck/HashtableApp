@@ -1,0 +1,15 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb
